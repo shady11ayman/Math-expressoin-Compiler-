@@ -1,0 +1,14 @@
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.AssemblyInfo.cs
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.exe
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.deps.json
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.runtimeconfig.json
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.runtimeconfig.dev.json
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.dll
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\bin\Debug\netcoreapp3.1\Math Expressions Project.pdb
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.dll
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.pdb
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.genruntimeconfig.cache
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.csproj.AssemblyReference.cache
+C:\Users\oem\source\repos\Math Expressions\Math Expressions\obj\Debug\netcoreapp3.1\Math Expressions Project.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Math_Expressions
-build_property.ProjectDir = C:\Users\oem\source\repos\Math Expressions\Math Expressions\
+build_property.ProjectDir = C:\repo\Math-expressoin-Compiler-\Math Expressions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

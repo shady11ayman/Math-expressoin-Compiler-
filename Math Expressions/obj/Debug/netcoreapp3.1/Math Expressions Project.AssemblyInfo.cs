@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Math Expressions Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d440fb9b70ab2fcf32c97d7e1878cf38f65d01c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Math Expressions Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Math Expressions Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
